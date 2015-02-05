@@ -1,0 +1,5 @@
+---
+name: hello
+templates:
+  ctl.erb: bin/ctl
+packages:

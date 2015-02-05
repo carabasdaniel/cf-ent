@@ -1,0 +1,5 @@
+check process HelloWorld
+  with pidfile /var/vcap/sys/run/hello/pid
+  start program "/var/vcap/jobs/hello/bin/ctl start"
+  stop program "/var/vcap/jobs/hello/bin/ctl stop"
+  group vcap

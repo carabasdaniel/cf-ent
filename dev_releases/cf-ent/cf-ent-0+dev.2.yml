@@ -1,0 +1,16 @@
+---
+packages:
+- name: hello
+  version: f2da9c4cfe97ba352be4326f88b557425049d226
+  sha1: 10f453b948182a0157a1c8c5b70b251295c88984
+  fingerprint: f2da9c4cfe97ba352be4326f88b557425049d226
+  dependencies: []
+jobs:
+- name: hello
+  version: 6126b974df52531279149e0aee3355d2a6c69c4e
+  fingerprint: 6126b974df52531279149e0aee3355d2a6c69c4e
+  sha1: edbc5e51b5098aca14cafc3af02c5552a9f2db2f
+commit_hash: '00000000'
+uncommitted_changes: false
+name: cf-ent
+version: 0+dev.2
